@@ -5,17 +5,17 @@ Ports Using NMAP ! Also An Advanced Option To Get all The Advanced Commands You 
 #
 ## Linux ->
 * sudo apt-get install git 
-* sudo apt-get install python
+* sudo apt-get install python2
 * git clone https://github.com/SarthakMalhotra/Nmap-Automater-A-Port-Scanner
 * cd Nmap-Automater-A-Port-Scanner
-* python NmapAutomate.py
+* python2 NmapAutomate.py
 
 ## Termux ->
 * pkg install git 
-* pkg install python
+* pkg install python2
 * git clone https://github.com/SarthakMalhotra/Nmap-Automater-A-Port-Scanner
 * cd Nmap-Automater-A-Port-Scanner
-* python NmapAutomate.py
+* python2 NmapAutomate.py
 
 ## Check Image Of The Scanner
 
